@@ -9,3 +9,19 @@ p{
 	font-weight: 400;
 	line-height: 1.2rem;
 }
+
+header{
+	background-color: tan;
+}
+main{
+	background-color:pink;
+	padding: 16px;
+}
+
+footer{
+	background-color: lime;
+}
+
+aside{
+	background-color: blue;
+}

@@ -2,11 +2,13 @@
 
 const animals = [
 	'cat',
-	'dog'
+	'dog',
+	'horse'
 ];
 
 //using comma trailing
 const foods = [
 	'apple',
 	'melon',
+	'pasta',
 ];
